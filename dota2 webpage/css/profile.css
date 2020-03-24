@@ -1,0 +1,60 @@
+/* Menu styling*/
+body {
+    background-image: url(/img/dota2.jpg);
+}
+.nav {
+    max-width: 45%;
+    color: rgba(255, 235, 205, 0.692);
+    background-color: rgba(59, 57, 57, 0.274);
+    font-size: 2em;
+    font-family: fantasy;
+    letter-spacing: 2px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 15px;
+    margin-left: 25%;
+}
+
+.sidenav {
+    height: 100%;
+    width: 140px;
+    position: fixed;
+    z-index: 1;
+    top: 0%;
+    left: 0;
+    background-color: rgba(12, 8, 8, 0.692);
+    overflow-x: hidden;
+    padding-top: 180px;
+}
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+
+.text-container {
+    border: 1px solid rgb(255, 252, 252);
+    margin-left: 8%;
+    
+    
+
+}
+
+.infotext {
+    background-color: rgba(95, 158, 160, 0.199);
+    text-align: left;
+    font-size: 1.5em;
+    color: rgb(255, 255, 255);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.title {
+    color: burlywood;
+    text-align: center;
+}
